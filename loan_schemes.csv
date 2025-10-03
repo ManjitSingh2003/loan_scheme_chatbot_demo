@@ -1,0 +1,9 @@
+scheme_id,scheme_name,purpose_tags,eligibility_income_min_monthly,eligibility_income_max_monthly,loan_amount_min,loan_amount_max,tenure_min_months,tenure_max_months,interest_rate_annual_percent,notes
+1,Education Boost Loan,education;study,0,20000,5000,200000,6,60,10.5,Low-docs for students; co-signer may be required
+2,Women Entrepreneur Loan,business;women;entrepreneur,5000,100000,10000,500000,12,60,12.0,Preferential rate for women-owned businesses
+3,MSME Working Capital,business;msme;working capital,10000,500000,50000,5000000,6,36,14.0,Requires basic business documents (GST/Shop act/utility bills)
+4,Agriculture Microloan,agriculture;farm,0,100000,5000,200000,3,24,11.0,Seasonal repayment schedules possible
+5,Personal Microloan,personal;emergency;consumer,2000,50000,1000,50000,1,24,16.0,"Fast approval, minimal documentation"
+6,Digital Merchant Loan,business;merchant;digital,5000,200000,10000,1000000,6,48,13.5,For merchants with digital payment history
+7,Green Farmer Loan,agriculture;green;solar,0,100000,20000,1000000,12,84,9.5,For solar irrigation and green tech investments
+8,Education Loan - Long Term,education;study;higher education,0,200000,50000,2000000,12,120,9.0,Longer tenures for higher education
