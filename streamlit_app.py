@@ -147,7 +147,7 @@ def main():
                 st.write("---")
 
     st.sidebar.header("About (Demo)")
-    st.sidebar.write("This is a lightweight demo to show the idea. It's rule-based and intended as a concept proof to take to stakeholders.")
+    st.sidebar.write("This is a lightweight demo to show the idea. It's rule-based and intended as a concept proof.")
 
 if __name__ == '__main__':
     main()
